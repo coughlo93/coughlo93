@@ -9,7 +9,7 @@ I have hands on experience building projects in:
 - APIs & Web Apps (Flask, REST, CRUD)
 - Statistics (hypothesis testing, simulation, analysis)
 
-## Featured Projects
+### Featured Projects
 Here are a few repos that best represent my work:
 
 - [Computer Infrastructure Assessment** — automation + workflows + data collection](https://github.com/coughlo93/computer_infrastructure_assessment)
@@ -17,7 +17,7 @@ Here are a few repos that best represent my work:
 - [Wind Speed Analysis Project** — EDA + visualisation on weather station data](https://github.com/coughlo93/PFDA_Project)
 - [Web Services & Applications Project** — API / Flask-based project work](https://github.com/coughlo93/WSAA_big_project)
 
-## Tech I use
+### Tech I have used
 - Python
 - Jupyter
 - pandas
@@ -27,7 +27,6 @@ Here are a few repos that best represent my work:
 - SQL
 - Flask
 
-## Contact
+### Contact
 - Email: owen.coughlan@tus.ie
-- You can find me on [LinkedIn](https://www.linkedin.com/in/owen-coughlan93/).
-
+- You can also reach me on [LinkedIn](https://www.linkedin.com/in/owen-coughlan93/).
